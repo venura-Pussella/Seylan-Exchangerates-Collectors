@@ -1,0 +1,17 @@
+aiohttp
+aiosignal
+async-timeout
+azure-core
+azure-cosmos 
+azure-storage-blob
+beautifulsoup4
+isodate
+multidict
+numpy
+pandas
+python-dotenv
+requests
+urllib3
+playwright
+lxml
+html5lib
